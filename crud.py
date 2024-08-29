@@ -4,7 +4,7 @@ import psycopg2
 hostname = 'localhost'
 database = 'demo'
 username = 'postgres'
-password = 'Vishalrai2000@'
+password = '**********'
 port_id = 5432
 
 def main():
